@@ -1,22 +1,9 @@
 ### 初めまして 👋, 小恸恸と申します。ペンネームは星川漣（ほしかわサザナミ）です、ナミと呼んでいい。
 
-<!--
-**xiaotong-tong/xiaotong-tong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-LV: 25 
-職業: フロントエンドエンジニア
+- ネーム：ナミ
+- LV: 25
+- 職業: フロントエンドエンジニア
+- ホームページ：[xtt.moe](https://xtt.moe)
 
 
 ### My GitHub
