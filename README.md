@@ -1,4 +1,4 @@
-### Hi there 👋, I`m 小恸恸
+### 初めまして 👋, 小恸恸と申します。ペンネームは星川漣（ほしかわサザナミ）です、ナミと呼んでいい。
 
 <!--
 **xiaotong-tong/xiaotong-tong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+LV: 25 
+職業: フロントエンドエンジニア
+
 
 ### My GitHub
 
